@@ -1,5 +1,4 @@
 pandas
 joblib
 forex_python
-sklearn
 scikit-learn
